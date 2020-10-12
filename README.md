@@ -9,6 +9,7 @@ This system is completely decentralized with Blockchain, so as to remove the mid
 * Register New Organizations Verified by WHO
 * Admin Control to WHO
 * Escrow Based Smart Contract for proof-of-funds and a much safer trade
+* Registered Organizations can withdraw funds
 * Stats to check the raised funds
 
 # The code will be posted here soon.
