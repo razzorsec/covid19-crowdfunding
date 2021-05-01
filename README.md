@@ -5,11 +5,11 @@ This system is completely decentralized with Blockchain, so as to remove the mid
 # Aim  
 * Decentralized Crowd Funding System
 * Accept Public Donations in Ethers
-* List Registered Organizations
-* Register New Organizations Verified by WHO
-* Admin Control to WHO
+* List Registered Organizations/Person
+* Register New Organizations Verified by Trustees
+* Admin Control to Deployer to Add/Remove Trustees
 * Escrow Based Smart Contract for proof-of-funds and a much safer trade
-* Registered Organizations can withdraw funds
+* Registered Organizations/Person can withdraw funds finalized by Trustees/Owner
 * Stats to check the raised funds
 
 # The code will be posted here soon.
